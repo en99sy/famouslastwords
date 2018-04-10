@@ -100,7 +100,31 @@ lastwords = ["Goodbye cruel world.", "I go to seek a great perhaps.\n\t-e e cumm
     "Time is liquid. One moment is no more important than any other and all moments quickly run away.\n\t-Kurt Vonnegut",
     "All persons, living and dead, are purely coincidental.\n\t-Kurt Vonnegut", "See you later, alligator.", "Existence is suffering.",
     "[...] the grey rain-curtain turned all to silver glass and was rolled back, and he beheld white shores and beyond them a far green country under a swift sunrise.",
-    "Little by little, and also in great leaps, life happened to me.", "In the end, everyone is aware of this:\nnobody keeps any of what he has,\nand life is only a borrowing of bones."]
+    "Little by little, and also in great leaps, life happened to me.", "In the end, everyone is aware of this:\nnobody keeps any of what he has,\nand life is only a borrowing of bones.",
+    "Oh no, not again.", "Call no man happy till he is dead.\n\tAeschylus", "It is not death that a man should fear, but never beginning to live.\n\t-Marcus Aurelius",
+    "Our bodies are prisons for our souls.\nOur skin and blood, the iron bars of confinement.\nBut fear not. All flesh decays. Death turns all to ash.\nAnd thus, death frees every soul.\n\t-Darren Aronofsky",
+    "Do not stand at my grave and weep.\nI am not there, I do not sleep.\n\t-Mary Elizabeth Frye",
+    "So fades a summer cloud away;\nSo sinks the gale when storms are o'er;\nSo gently shuts the the eye of day;\nSo dies a wave along the shore.\n\t-Anna Barbauld",
+    "To die would be an awfully big adventure.", "Never the spirit was born, the spirit shall cease to be never.\n Never was time it was not, end and beginning are dreams.\n\t-The Bhagavad Gita",
+    "Don't fear the reaper.", "how do you like your blueeyed boy\nMister Death\n\te. e. cummings, \"Buffalo Bill\"",
+    "Only the good die young.", "To live in hearts we leave behind is not to die.\n\t-Thomas Campbell",
+    "Death is not the end. Death can never be the end.\nDeath is the road. Life is the traveller.\nThe soul is the guide.\n\t-Sri Chinmoy",
+    "The lone and level sands stretch far away.\n\t-Percy Bysshe Shelley, \"Ozymandias\"",
+    "Rage, rage against the dying of the light.\n\t-Dylan Thomas",
+    "How well he fell asleep!\nLike some proud river, widening toward the sea;\nCalmly and grandly, silently and deep,\nLife joined eternity.\n\t-Samual Coleridge",
+    "We are going to die, and that makes us the lucky ones.\nMost people are never going to die because they are never going to be born.\n\t-Richard Dawkins",
+    "One short sleepe past, wee wake eternally,\nAnd death shall be no more; death, thou shalt die.\n\tJohn Donne",
+    "He thought it happier to be dead,\nTo die for Beauty, than live for bread.\n\t-Ralph Waldo Emerson",
+    "Life's race well run,\nLife's work well done,\nLife's crown well won,\nNow comes rest.\n\tEpitaph of President James Garfield",
+    "And the last long lap is the hardest,\nAnd I shall be dumped where the weed decays,\nAnd the rest is rust and stardust\n\t-Nabokov.",
+    "Life is a dream;\nAll dreams must end.", "You will be assimilated.", "Exterminate!", "I am death, not taxes. I only turn up once.\n\tTerry Pratchet, \"Feet of Clay\"",
+    "A heap of dust remains of thee;\n'Tis all thou art, and all the proud shall be!\n\t-Alexander Pope", "We're all just stories in the end.",
+    "To sleep! perchance to dream -- ay, there's the rub;\nFor in that sleep of death what dreams may come?",
+    "Life into death -- life's other shape; no rupture, only crossing.\n\t-Dejan Stojanovic.",
+    "Death is nature's way of saying, \"Your table is ready.\"\n\t-Robin Williams",
+    "Rejoice for those around you who transform into the Force. Mourn them do not. Miss them do not.",
+    "A samurai once asked Zen Master Hakuin where he would go after he died.\nHakuin answered \"How am I supposed to know?\"\n\"How do you know? You're a Zen master!\" exclaimed the samurai.\n\"Yes, but not a dead one\", Hakuin answered.\n\t-Zen koan"
+    ]
 
 
 def complain():
