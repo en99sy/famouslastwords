@@ -31,7 +31,7 @@ nicewords = ["Necessity is the mother of invention.", "Genius is 99% perspiratio
     "There is a desire deep within the soul which drives man from the seen to the unseen,\n to philosophy and the divine.\n\t-Kahil Gibran",
     "Inspiration is a slender river of brightness leaping from a vast and eternal knowledge.\n\t-Sri Aurobindo",
     "It's not the size of the dog in the fight, it's the size of the fight in the dog. \n\t-Mark Twain",
-    "You miss 100% of the shots you don't take.\n\t-Wayne Gretsky\n\t\tMichael Scott",
+    "You miss 100% of the shots you don't take.\n\t-Wayne Gretsky\n\t\t-Michael Scott",
     "Between your dreams in the sky and your reality on the ground is your future, your horizon.\n\t-Eric Burns",
     "Inspiration is the windfall from hard work and focus. Muses are too unreliable to keep on the payroll.\n\t-Helen Hanson",
     "A breath of our inspiration\nIs the life of each generation;\nA wondrous thing of our dreaming\nUnearthly, impossible seeming --\nThe soldier, the king, and the peasant\nAre working together in one,\nTil our dream shall become their present,\nAnd their work in the world be done.\n\t-Authur O'Shaughnessy",
@@ -42,7 +42,34 @@ nicewords = ["Necessity is the mother of invention.", "Genius is 99% perspiratio
     "Innovation distinguishes between a leader and a follower.\n\t-Steve Jobs", "I have not failed.\nI've just found 10,000 ways that won't work.\n\t-Thomas Edison",
     "Do not go where the path may lead;\ngo instead where there is no path and leave a trail.\n\t-Ralph Waldo Emerson",
     "Things work out best for those who make the best of how things work out.", "The people who are crazy enough to think they can change the world are the ones that do.\n\t-Steve Jobs",
-    "Hang in there, buddy.."]
+    "Hang in there, buddy..", "What doesn't kill you makes you stronger.", "This, too, shall pass.",
+    "A fence to wisdom is silence.\n\t-Akiba ben Joseph", "A word after a word after a word is power.\n\t-Margaret Atwood",
+    "Hope is like the sun;\nif you only believe in it when you can see it, you'll never make it through the night.", "Hope is the dream of a waking man.\n\t-Aristotle",
+    "Everything passes away -- suffering, pain, blood, hunger, pestilence.\nThe sword will pass away too, but the stars will still remain when the shadows of our presence and our deeds have vanished from the earth.\nThere is no man who does not know that. Why, then, will we not turn our eyes towards the stars? Why?\n\t-Mikhail Bulgakov",
+    "Until death, all is life.\n(While there's life, there's hope.)\n\t-Miguel de Cervants, Don Quixote",
+    "Hope is the thing with feathers--\nThat perches in the soul--\nAnd sings the tune without the words--\nAnd never stops -- at all --\n\t-Emily Dickinson",
+    "When we realize the degree of agency we actually do have, we no longer have to \"hope\" at all.\nWe simply do the work.\n\t-Derrick Jensen", "love is the every only god\n\t-e. e. cummings",
+    "yes is a pleasant country--\nlove is a deeper season\nthan reason\n\t-e. e. cummings", "--tomorrow is our permanant address\nandthere they'll scarcely find us (if they do,\nwe'll move away still further: into now)\n\t-e. e. cummings",
+    "completely dare\nbe beautiful\n\t-e. e. cummings", "lovers alone wear sunlight\n\t-e. e. cummings",
+    "my advice to all young people who wish to become poets is:\ndo something easy, like learning how to blow up the world\n\t -- unless you're not only willing, but glad, to feel and work and fight till you die.\nDoes this sound dismal? It isn't.\nIt's the most wonderful life on earth.\nOr so I feel.\n\t-e. e. cummings",
+    "Never let the future disturb you.\nYou will meet it, if you have to, with the same weapons of reason which today arm you against the present.\n\t-Marcus Aurelius Antonius",
+    "People ask me to predict the future, when all I want to do is prevent it.\nBetter yet, build it. Predicting the future is much too easy, anyway.\nYou look at the people around you, the street you stand on, the visible air you breathe, and predict more of the same.\nTo hell with more. I want better.\n\t-Ray Bradbury",
+    "The empires of the future are the empires of the mind.\n\t-Winston Churchill", "I never think of the future. It comes soon enough.\n\t-Albert Einstein",
+    "A generation that ignores history has no past -- and no future.\n\t-Robert Heinlein", "Today is only one day in all the days that will ever be.\nHemingway",
+    "Our virtures and failings are inseparable, like force and matter.\nWhen they separate, man is no more.\n\t-Nikola Tesla",
+    "We live in deeds, not years: in thoughts, not breaths;\nIn feelings, not in figures on a dial.\nWe should count time by heart-throbs. He most lives\nWho thinks most, feels the noblest, acts the best.\n\t-Philip James Bailey",
+    "It matters not how long we live, but how.\n\t-Philip James Bailey", "There are more things in heaven and earth, Horatio\nThan are dreamt of in your philosophy.\n\tShakespeare, Hamlet",
+    "Since life is but a continuous series of experiences, everything ultimately helps me towards my final enlightenment.\n\t-Sri Chinmoy",
+    "In three words I can sum up everything I've learned about life — It goes on.\n\t-Robert Frost", "If you need something to worship, then worship life — all life, every last crawling bit of it! We're all in this beauty together!\n\t-Frank Herbert",
+    "Life is what happens to you while you're busy making other plans.", "It is possible to commit no mistakes and still lose. That is not a weakness; that is life.\n\t-Jean-Luc Picard",
+    "Life is something that everyone should try at least once.\n\t-Henry J Tillman", "To see a World in a Grain of Sand\nAnd a Heaven in a Wild Flower,\nHold Infinity in the palm of your hand\nAnd Eternity in an hour.\n\t-William Blake",
+    "As it once was, so shall it be again\nWorld without end.", "No one's ever really gone.",
+    "What is the most important step a man can take?\n\tThe next one.", "He that will not when he may,\nWhen he will he shall have nay.\n\t-Robert Burton",
+    "Love is the only thing that we can carry with us when we go, and it makes the end so easy.\n\t-Louisa May Alcott",
+    "In dreams and in love there are no impossibilities.\n\t-Janos Arany", "If you never know truth then you never know love.\n\t-The Black Eyed Peas",
+    "Duty makes us do things well, but love makes us do them beautifully.\n\tPhillips Brooks"
+
+    ]
 
 about_computers = ["The trouble with computers, of course, is that they are very sophisticated idiots.",
     "I have bought this wonderful machine- a computer. Now I am rather an authority on gods, so I identified the machine- it seems to me to be an Old Testament god with a lot of rules and no mercy.\n\t-Joseph Campbell",
@@ -69,7 +96,7 @@ about_computers = ["The trouble with computers, of course, is that they are very
 
 
 
-lastwords = ["Goodbye cruel world.", "I go to seek a great perhaps.\n\t-e e cummings", "See you around, kid.",
+lastwords = ["Goodbye cruel world.", "I go to seek a great perhaps.\n\t-Rabelais", "See you around, kid.",
     "How rude.", "All compounded things are subject to vanish. Strive with earnestness.",
     "Tonight we dine in hell!", "Et tu, Brute?", "A dying man can do nothing easy.",
     "Now is not the time for making new enemies.", "Go on, get out! Last words are for fools who haven't said enough!",
@@ -123,7 +150,21 @@ lastwords = ["Goodbye cruel world.", "I go to seek a great perhaps.\n\t-e e cumm
     "Life into death -- life's other shape; no rupture, only crossing.\n\t-Dejan Stojanovic.",
     "Death is nature's way of saying, \"Your table is ready.\"\n\t-Robin Williams",
     "Rejoice for those around you who transform into the Force. Mourn them do not. Miss them do not.",
-    "A samurai once asked Zen Master Hakuin where he would go after he died.\nHakuin answered \"How am I supposed to know?\"\n\"How do you know? You're a Zen master!\" exclaimed the samurai.\n\"Yes, but not a dead one\", Hakuin answered.\n\t-Zen koan"
+    "A samurai once asked Zen Master Hakuin where he would go after he died.\nHakuin answered \"How am I supposed to know?\"\n\"How do you know? You're a Zen master!\" exclaimed the samurai.\n\"Yes, but not a dead one\", Hakuin answered.\n\t-Zen koan",
+    "There is only one god, and that is Death. What do we say to Death?\nNot today.", "I hope for nothing. I fear nothing. I am free.\n\t-Nikos Kazantzakis",
+    "I am moved by fancies that are curled\nAround these images, and cling:\nThe notion of some infinitely gentle\nInfinitely suffering thing.\n\t-TS Eliot",
+    "I was neither\nLiving nor dead, and I knew nothing,\nLooking into the heart of light, of silence.\n\t-TS Eliot, \"The Waste Land\"",
+    "Of death's twilight kingdom\nThe hope only\nOf empty men.\n\t-TS Eliot, \"The Hollow Men\"", "This is the way the world ends\nThis is the way the world ends\nThis is the way the world ends\nNot with a bang but a whimper.\n\t-TS Eliot, \"The Hollow Men\"",
+    "And the wind shall say: \"Here were decent godless people:\nTheir onlyl moument the asphalt road\nAnd a thousand lost golf balls.\"\n\t-TS Eliot, \"The Rock\"",
+    "life's not a paragraph\nAnd death i think is no parenthesis\n\t-e. e. cummings", "Time's a strange fellow;\nmore he gives than takes\n(and he takes all)\n\t-e. e. cummings",
+    "unbeingdead isn't beingalive\n\t-e. e. cummings", "Hell is other people.\n\t-Sartre",
+    "It is time, love, to break off that sombre rose,\nshut up the stars and bury the ash in the earth;\nand, in the rising of the light, wake with those who awoke\nor go on in the dream, reaching the other shore of the sea which has no other shore\n\t-Pablo Neruda, \"The Watersong Ends\"",
+    "Because I could not stop for Death --\nHe kindly stopped for me --\n\t-Emily Dickinson", "And then a Plank in Reason, broke,\nAnd I dropped down, and down--\nAnd hit a World, at every plunge,\nAnd Finished knowing -- then --\n\t-Emily Dickinson",
+    "Still ending, and beginning still.\n\t-William Cowper", "Life is a jest; and all things show it.\nI thought so once; and now I know it.\n\t-John Gay's epitaph",
+    "Let all live as they would die.\n\t-George Herbert", "Death is certain, life is not.\n\t-Augustus Hill",
+    "I came like Water, and like Wind I go.\n\t-Omar Khayyam", "Death is chemical.",
+    "The Lives\nWe try to make never seem to get\nUs anywhere but Dead.\n\t-Soundgarden", "Life is but a dream.",
+    "No one is anyone, one single immortal man is all men.\nLike Cornelius Agrippa, I am god, I am hero, I am philosopher, I am demon and I am world,\nwhich is a tedious way of saying that I do not exist.\n\t-Jorge Luis Borges"
     ]
 
 
